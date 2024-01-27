@@ -1,0 +1,48 @@
+
+# Sneak peek: Math magicians
+
+## Learning objectives
+- Understand how to use medium-fidelity wireframes to create a UI.
+
+### Estimated time: 0.5h
+
+## Description
+
+"Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
+- Make simple calculations.
+- Read a random math-related quote.
+
+By building this application, you will learn how to use React.
+
+### How to build the "Math magicians" website
+
+You will start by building the core functionality, which is a calculator. At the very beginning your website will contain only the simple UI presented below, but it will be able to perform all math operations. 
+
+<p align="center">
+  <img src="./images/calculator.png" alt="Calculator" width="300px" />
+</p>
+
+Once the calculator is ready you will use it as a part of a full website that includes 3 sub-pages:
+
+<p align="center">
+  <img src="./images/math_magicians_home.png" alt="Core elements" width="450px"  />
+  <img src="./images/math_magicians_calculator.png" alt="Core elements" width="450px"  />
+  <img src="./images/math_magicians_quote.png" alt="Core elements" width="450px"  />
+</p>
+
+### Projects list
+
+You will be building your "Math magicians" website for more than a whole week. Here is the list of projects that will guide you through the steps described above. You will find details about each of the project requirements in the upcoming program activities. In some of the projects, you will be working collaboratively by using pair programming.
+
+
+- [Project 1: Setup](https://github.com/microverseinc/curriculum-react-redux/blob/main/math-magicians/project_setup.md)
+- [Project 2: Components.](https://github.com/microverseinc/curriculum-react-redux/blob/main/math-magicians/project_components.md)
+- [Project 3: Events.](https://github.com/microverseinc/curriculum-react-redux/blob/main/math-magicians/project_events.md)
+- [Project 4: Refactor with hooks.](https://github.com/microverseinc/curriculum-react-redux/blob/main/math-magicians/project_fetch_data_from_api.md)
+- [Project 5: Full website.](https://github.com/microverseinc/curriculum-react-redux/blob/main/math-magicians/project_full_website_v2.md)
+- [Project 6: Tests (pair programming).](https://github.com/microverseinc/curriculum-react-redux/blob/main/math-magicians/project_tests.md)
+        
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._
